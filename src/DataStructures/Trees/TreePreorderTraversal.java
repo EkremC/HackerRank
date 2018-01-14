@@ -19,4 +19,3 @@ class Node {
     Node left;
     Node right;
 }
-
